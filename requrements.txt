@@ -1,0 +1,6 @@
+open-python
+face_recognition
+numpy
+pandas
+tk
+
